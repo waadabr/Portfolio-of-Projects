@@ -38,3 +38,10 @@ Simon says button game, follow the pattern to advance to different levels. Find 
 
 
 My first few websites that I developed in my Communications Lab class. Find them here.
+
+
+**Other Portfolios and Social Accounts:**
+
+[LinkedIn Account](https://www.linkedin.com/in/waad-a-626068135/)
+
+[Instagram Art Account](https://www.instagram.com/waad.arts/)
