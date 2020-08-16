@@ -5,7 +5,7 @@ The projects I am currently hosting are:
 
 **Matching Game:**
 
-
+![](Thumbnails/matchingGame.png)
 
 Memory game, match the cards to win. Find the game here.
 
