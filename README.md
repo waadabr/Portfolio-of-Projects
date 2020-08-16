@@ -20,7 +20,7 @@ A classic tic-tac-toe game for 2 players. Find the game here.
 
 ![](Thumbnails/Netflix.png)
 
-A generator that reccomends random netflix movies sourcing content from a CSD file. Find the program here. 
+A generator that reccomends random netflix movies sourcing content from a CSD file. Find the program [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/NetflixRec). 
 
 **Graphic Recreation:**
 
