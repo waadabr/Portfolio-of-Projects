@@ -13,7 +13,7 @@ Memory game, match the cards to win. Find the game [here](https://github.com/waa
 
 ![](Thumbnails/tictactoegame.png)
 
-A classic tic-tac-toe game for 2 players. Find the game here.
+A classic tic-tac-toe game for 2 players. Find the game [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/TicTacToe).
 
 
 **Netflix Reccomendation Generator:**
