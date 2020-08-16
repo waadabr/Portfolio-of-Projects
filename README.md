@@ -7,7 +7,7 @@ The projects I am currently hosting are:
 
 ![](Thumbnails/matchingGame.png)
 
-Memory game, match the cards to win. Find the game here.
+Memory game, match the cards to win. Find the game [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/MatchingGame).
 
 **Tic-Tac-Toe:**
 
