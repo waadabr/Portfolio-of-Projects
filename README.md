@@ -36,8 +36,7 @@ Simon says button game, follow the pattern to advance to different levels. Find 
 
 **Websites:**
 
-
-My first few websites that I developed in my Communications Lab class. Find them here.
+My first few websites that I developed in my Communications Lab class. Find them [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/PracticeWebsites).
 
 
 **Other Portfolios and Social Accounts:**
