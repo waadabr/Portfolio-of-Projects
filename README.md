@@ -26,7 +26,7 @@ A generator that reccomends random netflix movies sourcing content from a CSD fi
 
 ![](Thumbnails/graphic.png)
 
-A recreation of an old graphic design using processing. Find the piece here.
+A recreation of an old graphic design using processing. Find the piece [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/GraphicRecreation).
 
 **"Simon Says":**
 
