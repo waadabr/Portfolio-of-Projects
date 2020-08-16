@@ -32,7 +32,7 @@ A recreation of an old graphic design using processing. Find the piece [here](ht
 
 ![](Thumbnails/SimonSays.png)
 
-Simon says button game, follow the pattern to advance to different levels. Find the game here. 
+Simon says button game, follow the pattern to advance to different levels. Find the game [here](https://github.com/waadabr/Portfolio-of-Projects/tree/master/SimonSays). 
 
 **Websites:**
 
