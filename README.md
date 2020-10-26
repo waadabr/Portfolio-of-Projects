@@ -1,5 +1,5 @@
 # Portfolio-of-Projects
-Portfolio of projects I've worked on in the past.
+Portfolio of projects I've worked on in the past. As someone who is interested in UX design and general web development, I am committed to learning the necessary skills to accomplish my goals. I have worked with PYTHON and C++ but more expereinced with Processing, HTML, CSS, and JS. I learning Adobe Creative Suite and continuing to work on the coding skills. This portfolio has been curated over the past few months. 
 
 The projects I am currently hosting are:
 
